@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectGuid>{DEAAF9B9-F7DC-41A7-B830-61F67E0FB565}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Assistant</RootNamespace>
+    <AssemblyName>Droid_calendar</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <SourceAnalysisOverrideSettingsFile>C:\Documents and Settings\C357555\Application Data\ICSharpCode/SharpDevelop4.1\Settings.SourceAnalysis</SourceAnalysisOverrideSettingsFile>
+    <SignAssembly>false</SignAssembly>
+    <DelaySign>False</DelaySign>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
+    <NoStdLib>False</NoStdLib>
+    <WarningLevel>4</WarningLevel>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <RunCodeAnalysis>False</RunCodeAnalysis>
+    <RunSourceAnalysis>False</RunSourceAnalysis>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <RegisterForComInterop>False</RegisterForComInterop>
+    <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
+    <BaseAddress>4194304</BaseAddress>
+    <FileAlignment>4096</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <StartAction>Project</StartAction>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+    <OutputPath>lib\4.0\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.Ribbon35">
+      <HintPath>..\DLL_Externes\System.Windows.Forms.Ribbon35.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controler\Interface_calendar.cs" />
+    <Compile Include="Model\HMergedCell.cs" />
+    <Compile Include="Model\Kalendar.cs" />
+    <Compile Include="Model\LibraryKalendar.cs" />
+    <Compile Include="Model\Team.cs" />
+    <Compile Include="Model\User.cs" />
+    <Compile Include="Model\Win32Processes.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Vues\ToolStripMenuICAL.cs" />
+    <Compile Include="Vues\FormExport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vues\FormExport.Designer.cs">
+      <DependentUpon>FormExport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vues\PanelSetting.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Vues\PanelSetting.Designer.cs">
+      <DependentUpon>PanelSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vues\PanelTeam.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Vues\PanelTeam.Designer.cs">
+      <DependentUpon>PanelTeam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vues\PanelUser.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Vues\PanelUser.Designer.cs">
+      <DependentUpon>PanelUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vues\FormYearChoose.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vues\FormYearChoose.Designer.cs">
+      <DependentUpon>FormYearChoose.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vues\GUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vues\GUI.Designer.cs">
+      <DependentUpon>GUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vues\PanelCalendar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Vues\PanelCalendarTeam.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Vues\PanelCalendarUser.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Tools4Libraries\Tools4Libraries.csproj">
+      <Project>{D2C821F1-1CE1-4B0B-B87A-D59B0AE062A0}</Project>
+      <Name>Tools4Libraries</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Vues\FormExport.resx">
+      <DependentUpon>FormExport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vues\PanelSetting.resx">
+      <DependentUpon>PanelSetting.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vues\PanelTeam.resx">
+      <DependentUpon>PanelTeam.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vues\PanelUser.resx">
+      <DependentUpon>PanelUser.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vues\FormYearChoose.resx">
+      <DependentUpon>FormYearChoose.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vues\GUI.resx">
+      <DependentUpon>GUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.Targets" />
+</Project>

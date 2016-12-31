@@ -1,0 +1,188 @@
+D:\_DevC#\GlobalParser\Droid_calendar\bin\Debug\GlobalParser.dll
+D:\_DevC#\GlobalParser\Droid_calendar\bin\Debug\GlobalParser.pdb
+D:\_DevC#\GlobalParser\Droid_calendar\bin\Debug\Google.GData.AccessControl.dll
+D:\_DevC#\GlobalParser\Droid_calendar\bin\Debug\Google.GData.Calendar.dll
+D:\_DevC#\GlobalParser\Droid_calendar\bin\Debug\Google.GData.Client.dll
+D:\_DevC#\GlobalParser\Droid_calendar\bin\Debug\Google.GData.Contacts.dll
+D:\_DevC#\GlobalParser\Droid_calendar\bin\Debug\Google.GData.Documents.dll
+D:\_DevC#\GlobalParser\Droid_calendar\bin\Debug\Google.GData.Extensions.dll
+D:\_DevC#\GlobalParser\Droid_calendar\bin\Debug\GoogleHelpers.dll
+D:\_DevC#\GlobalParser\Droid_calendar\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\_DevC#\GlobalParser\Droid_calendar\obj\x86\Debug\GlobalParser.dll
+D:\_DevC#\GlobalParser\Droid_calendar\obj\x86\Debug\GlobalParser.pdb
+D:\_DevC#\GlobalParser\Droid_calendar\bin\Debug\Tools_Generics.dll
+D:\_DevC#\GlobalParser\Droid_calendar\bin\Debug\Tools_Generics.pdb
+C:\Users\Amos\Documents\SharpDevelop Projects\GlobalParser\Droid_calendar\bin\Debug\Tools_Generics.dll
+C:\Users\Amos\Documents\SharpDevelop Projects\GlobalParser\Droid_calendar\bin\Debug\Tools_Generics.pdb
+C:\Users\Amos\Documents\SharpDevelop Projects\GlobalParser\Droid_calendar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Amos\Documents\SharpDevelop Projects\GlobalParser\Droid_calendar\bin\Debug\Droid_calendar.dll
+C:\Users\Amos\Documents\SharpDevelop Projects\GlobalParser\Droid_calendar\bin\Debug\Droid_calendar.pdb
+C:\Users\Amos\Documents\SharpDevelop Projects\GlobalParser\Droid_calendar\obj\x86\Debug\GlobalParser.GUI.resources
+C:\Users\Amos\Documents\SharpDevelop Projects\GlobalParser\Droid_calendar\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Amos\Documents\SharpDevelop Projects\GlobalParser\Droid_calendar\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Amos\Documents\SharpDevelop Projects\GlobalParser\Droid_calendar\obj\x86\Debug\Droid_calendar.dll
+C:\Users\Amos\Documents\SharpDevelop Projects\GlobalParser\Droid_calendar\obj\x86\Debug\Droid_calendar.pdb
+D:\_DEV\_DevC#\GlobalParser\Droid_calendar\bin\Debug\Droid_calendar.dll
+D:\_DEV\_DevC#\GlobalParser\Droid_calendar\bin\Debug\Droid_calendar.pdb
+D:\_DEV\_DevC#\GlobalParser\Droid_calendar\bin\Debug\Tools_Generics.dll
+D:\_DEV\_DevC#\GlobalParser\Droid_calendar\bin\Debug\Tools_Generics.pdb
+D:\_DEV\_DevC#\GlobalParser\Droid_calendar\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\_DEV\_DevC#\GlobalParser\Droid_calendar\obj\x86\Debug\GlobalParser.FormTeam.resources
+D:\_DEV\_DevC#\GlobalParser\Droid_calendar\obj\x86\Debug\GlobalParser.FormUser.resources
+D:\_DEV\_DevC#\GlobalParser\Droid_calendar\obj\x86\Debug\GlobalParser.GUI.resources
+D:\_DEV\_DevC#\GlobalParser\Droid_calendar\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\_DEV\_DevC#\GlobalParser\Droid_calendar\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\_DEV\_DevC#\GlobalParser\Droid_calendar\obj\x86\Debug\Droid_calendar.dll
+D:\_DEV\_DevC#\GlobalParser\Droid_calendar\obj\x86\Debug\Droid_calendar.pdb
+D:\_DEV\_DevC#\GlobalParser\Droid_calendar\obj\x86\Debug\GenerateResource.read.3.tlog
+H:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\bin\Debug\Droid_calendar.dll
+H:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\bin\Debug\Droid_calendar.pdb
+H:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\bin\Debug\Tools_Generics.dll
+H:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\bin\Debug\Tools_Generics.pdb
+H:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\GlobalParser.FormTeam.resources
+H:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\GlobalParser.FormUser.resources
+H:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\GlobalParser.GUI.resources
+H:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\Droid_calendar.dll
+H:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\Droid_calendar.pdb
+H:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\bin\Debug\System.Windows.Forms.Ribbon35.dll
+I:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\bin\Debug\Droid_calendar.dll
+I:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\bin\Debug\Droid_calendar.pdb
+I:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\bin\Debug\System.Windows.Forms.Ribbon35.dll
+I:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\bin\Debug\Tools_Generics.dll
+I:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\bin\Debug\Tools_Generics.pdb
+I:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\GlobalParser.FormTeam.resources
+I:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\GlobalParser.FormUser.resources
+I:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\GlobalParser.GUI.resources
+I:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\Droid_calendar.dll
+I:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\Droid_calendar.pdb
+I:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\GlobalParser.FormYearChoose.resources
+I:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\GlobalParser.FormSetting.resources
+I:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\GlobalParser.FormExport.resources
+I:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\bin\Debug\Droid_calendar.dll
+F:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\bin\Debug\Droid_calendar.pdb
+F:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\bin\Debug\System.Windows.Forms.Ribbon35.dll
+F:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\bin\Debug\Tools_Generics.dll
+F:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\bin\Debug\Tools_Generics.pdb
+F:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\GlobalParser.FormExport.resources
+F:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\GlobalParser.FormSetting.resources
+F:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\GlobalParser.FormTeam.resources
+F:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\GlobalParser.FormUser.resources
+F:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\GlobalParser.FormYearChoose.resources
+F:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\GlobalParser.GUI.resources
+F:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\Droid_calendar.dll
+F:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\Droid_calendar.pdb
+F:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\GenerateResource.read.4.tlog
+E:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\bin\Debug\Droid_calendar.dll
+E:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\bin\Debug\Droid_calendar.pdb
+E:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\bin\Debug\System.Windows.Forms.Ribbon35.dll
+E:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\bin\Debug\Tools_Generics.dll
+E:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\bin\Debug\Tools_Generics.pdb
+E:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\Droid_calendar.csprojResolveAssemblyReference.cache
+E:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\GlobalParser.FormExport.resources
+E:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\GlobalParser.FormSetting.resources
+E:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\GlobalParser.FormTeam.resources
+E:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\GlobalParser.FormUser.resources
+E:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\GlobalParser.FormYearChoose.resources
+E:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\GlobalParser.GUI.resources
+E:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\Droid_calendar.csproj.GenerateResource.Cache
+E:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\Droid_calendar.dll
+E:\_DEV_\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\Droid_calendar.pdb
+C:\Users\user\Google Drive\DaddyMummy - project\GlobalParser\Droid_calendar\bin\Debug\Droid_calendar.dll
+C:\Users\user\Google Drive\DaddyMummy - project\GlobalParser\Droid_calendar\bin\Debug\Droid_calendar.pdb
+C:\Users\user\Google Drive\DaddyMummy - project\GlobalParser\Droid_calendar\bin\Debug\System.Windows.Forms.Ribbon35.dll
+C:\Users\user\Google Drive\DaddyMummy - project\GlobalParser\Droid_calendar\bin\Debug\Tools_Generics.dll
+C:\Users\user\Google Drive\DaddyMummy - project\GlobalParser\Droid_calendar\bin\Debug\Tools_Generics.pdb
+C:\Users\user\Google Drive\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\GlobalParser.FormExport.resources
+C:\Users\user\Google Drive\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\GlobalParser.FormSetting.resources
+C:\Users\user\Google Drive\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\GlobalParser.FormTeam.resources
+C:\Users\user\Google Drive\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\GlobalParser.FormUser.resources
+C:\Users\user\Google Drive\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\GlobalParser.FormYearChoose.resources
+C:\Users\user\Google Drive\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\GlobalParser.GUI.resources
+C:\Users\user\Google Drive\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\Droid_calendar.csproj.GenerateResource.Cache
+C:\Users\user\Google Drive\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\Droid_calendar.dll
+C:\Users\user\Google Drive\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\Droid_calendar.pdb
+C:\Users\user\Google Drive\DaddyMummy - project\GlobalParser\Droid_calendar\obj\x86\Debug\Droid_calendar.csprojResolveAssemblyReference.cache
+C:\Users\user\Google Drive\_AideDeCamp\GlobalParser\Droid_calendar\bin\Debug\Droid_calendar.dll
+C:\Users\user\Google Drive\_AideDeCamp\GlobalParser\Droid_calendar\bin\Debug\Droid_calendar.pdb
+C:\Users\user\Google Drive\_AideDeCamp\GlobalParser\Droid_calendar\bin\Debug\System.Windows.Forms.Ribbon35.dll
+C:\Users\user\Google Drive\_AideDeCamp\GlobalParser\Droid_calendar\bin\Debug\Tools_Generics.dll
+C:\Users\user\Google Drive\_AideDeCamp\GlobalParser\Droid_calendar\bin\Debug\Tools_Generics.pdb
+C:\Users\user\Google Drive\_AideDeCamp\GlobalParser\Droid_calendar\obj\x86\Debug\Droid_calendar.csprojResolveAssemblyReference.cache
+C:\Users\user\Google Drive\_AideDeCamp\GlobalParser\Droid_calendar\obj\x86\Debug\GlobalParser.FormExport.resources
+C:\Users\user\Google Drive\_AideDeCamp\GlobalParser\Droid_calendar\obj\x86\Debug\GlobalParser.FormSetting.resources
+C:\Users\user\Google Drive\_AideDeCamp\GlobalParser\Droid_calendar\obj\x86\Debug\GlobalParser.FormTeam.resources
+C:\Users\user\Google Drive\_AideDeCamp\GlobalParser\Droid_calendar\obj\x86\Debug\GlobalParser.FormUser.resources
+C:\Users\user\Google Drive\_AideDeCamp\GlobalParser\Droid_calendar\obj\x86\Debug\GlobalParser.FormYearChoose.resources
+C:\Users\user\Google Drive\_AideDeCamp\GlobalParser\Droid_calendar\obj\x86\Debug\GlobalParser.GUI.resources
+C:\Users\user\Google Drive\_AideDeCamp\GlobalParser\Droid_calendar\obj\x86\Debug\Droid_calendar.csproj.GenerateResource.Cache
+C:\Users\user\Google Drive\_AideDeCamp\GlobalParser\Droid_calendar\obj\x86\Debug\Droid_calendar.dll
+C:\Users\user\Google Drive\_AideDeCamp\GlobalParser\Droid_calendar\obj\x86\Debug\Droid_calendar.pdb
+C:\Users\user\Google Drive\_AideDeCamp\AideDeCamp\Droid_calendar\bin\Debug\System.Windows.Forms.Ribbon35.dll
+C:\Users\user\Google Drive\_AideDeCamp\AideDeCamp\Droid_calendar\obj\x86\Debug\Droid_calendar.csprojResolveAssemblyReference.cache
+C:\Users\user\Google Drive\_AideDeCamp\AideDeCamp\Droid_calendar\obj\x86\Debug\Droid_calendar.csproj.GenerateResource.Cache
+C:\Users\user\Google Drive\_AideDeCamp\AideDeCamp\Droid_calendar\obj\x86\Debug\AideDeCamp.FormExport.resources
+C:\Users\user\Google Drive\_AideDeCamp\AideDeCamp\Droid_calendar\obj\x86\Debug\AideDeCamp.FormYearChoose.resources
+C:\Users\user\Google Drive\_AideDeCamp\AideDeCamp\Droid_calendar\obj\x86\Debug\AideDeCamp.GUI.resources
+C:\Users\user\Google Drive\_AideDeCamp\AideDeCamp\Droid_calendar\bin\Debug\AideDeCamp_Calendar.dll
+C:\Users\user\Google Drive\_AideDeCamp\AideDeCamp\Droid_calendar\bin\Debug\AideDeCamp_Calendar.pdb
+C:\Users\user\Google Drive\_AideDeCamp\AideDeCamp\Droid_calendar\bin\Debug\AideDeCamp_Generics.dll
+C:\Users\user\Google Drive\_AideDeCamp\AideDeCamp\Droid_calendar\bin\Debug\AideDeCamp_Generics.pdb
+C:\Users\user\Google Drive\_AideDeCamp\AideDeCamp\Droid_calendar\obj\x86\Debug\AideDeCamp_Calendar.dll
+C:\Users\user\Google Drive\_AideDeCamp\AideDeCamp\Droid_calendar\obj\x86\Debug\AideDeCamp_Calendar.pdb
+C:\Users\user\Google Drive\_AideDeCamp\AideDeCamp\Droid_calendar\obj\x86\Debug\AideDeCamp.PanelSetting.resources
+C:\Users\user\Google Drive\_AideDeCamp\AideDeCamp\Droid_calendar\obj\x86\Debug\AideDeCamp.PanelTeam.resources
+C:\Users\user\Google Drive\_AideDeCamp\AideDeCamp\Droid_calendar\obj\x86\Debug\AideDeCamp.PanelUser.resources
+C:\Users\Amos\Google Drive\_AideDeCamp\AideDeCamp\Droid_calendar\bin\Debug\AideDeCamp_Calendar.dll
+C:\Users\Amos\Google Drive\_AideDeCamp\AideDeCamp\Droid_calendar\bin\Debug\AideDeCamp_Calendar.pdb
+C:\Users\Amos\Google Drive\_AideDeCamp\AideDeCamp\Droid_calendar\bin\Debug\AideDeCamp_Generics.dll
+C:\Users\Amos\Google Drive\_AideDeCamp\AideDeCamp\Droid_calendar\bin\Debug\System.Windows.Forms.Ribbon35.dll
+C:\Users\Amos\Google Drive\_AideDeCamp\AideDeCamp\Droid_calendar\bin\Debug\AideDeCamp_Generics.pdb
+C:\Users\Amos\Google Drive\_AideDeCamp\AideDeCamp\Droid_calendar\obj\x86\Debug\Droid_calendar.csprojResolveAssemblyReference.cache
+C:\Users\Amos\Google Drive\_AideDeCamp\AideDeCamp\Droid_calendar\obj\x86\Debug\Droid_calendar.csproj.GenerateResource.Cache
+C:\Users\Amos\Google Drive\_AideDeCamp\AideDeCamp\Droid_calendar\obj\x86\Debug\AideDeCamp_Calendar.dll
+C:\Users\Amos\Google Drive\_AideDeCamp\AideDeCamp\Droid_calendar\obj\x86\Debug\AideDeCamp_Calendar.pdb
+C:\Users\Amos\Google Drive\_AideDeCamp\AideDeCamp\Droid_calendar\obj\x86\Debug\Assistant.FormExport.resources
+C:\Users\Amos\Google Drive\_AideDeCamp\AideDeCamp\Droid_calendar\obj\x86\Debug\Assistant.PanelSetting.resources
+C:\Users\Amos\Google Drive\_AideDeCamp\AideDeCamp\Droid_calendar\obj\x86\Debug\Assistant.PanelTeam.resources
+C:\Users\Amos\Google Drive\_AideDeCamp\AideDeCamp\Droid_calendar\obj\x86\Debug\Assistant.PanelUser.resources
+C:\Users\Amos\Google Drive\_AideDeCamp\AideDeCamp\Droid_calendar\obj\x86\Debug\Assistant.FormYearChoose.resources
+C:\Users\Amos\Google Drive\_AideDeCamp\AideDeCamp\Droid_calendar\obj\x86\Debug\Assistant.GUI.resources
+C:\Users\Amos\Google Drive\_Assistant\Assistant\Droid_calendar\bin\Debug\Droid_calendar.dll
+C:\Users\Amos\Google Drive\_Assistant\Assistant\Droid_calendar\bin\Debug\Droid_calendar.pdb
+C:\Users\Amos\Google Drive\_Assistant\Assistant\Droid_calendar\bin\Debug\Assistant_Generics.dll
+C:\Users\Amos\Google Drive\_Assistant\Assistant\Droid_calendar\bin\Debug\System.Windows.Forms.Ribbon35.dll
+C:\Users\Amos\Google Drive\_Assistant\Assistant\Droid_calendar\bin\Debug\Assistant_Generics.pdb
+C:\Users\Amos\Google Drive\_Assistant\Assistant\Droid_calendar\obj\x86\Debug\Droid_calendar.csprojResolveAssemblyReference.cache
+C:\Users\Amos\Google Drive\_Assistant\Assistant\Droid_calendar\obj\x86\Debug\Assistant.FormExport.resources
+C:\Users\Amos\Google Drive\_Assistant\Assistant\Droid_calendar\obj\x86\Debug\Assistant.PanelSetting.resources
+C:\Users\Amos\Google Drive\_Assistant\Assistant\Droid_calendar\obj\x86\Debug\Assistant.PanelTeam.resources
+C:\Users\Amos\Google Drive\_Assistant\Assistant\Droid_calendar\obj\x86\Debug\Assistant.PanelUser.resources
+C:\Users\Amos\Google Drive\_Assistant\Assistant\Droid_calendar\obj\x86\Debug\Assistant.FormYearChoose.resources
+C:\Users\Amos\Google Drive\_Assistant\Assistant\Droid_calendar\obj\x86\Debug\Assistant.GUI.resources
+C:\Users\Amos\Google Drive\_Assistant\Assistant\Droid_calendar\obj\x86\Debug\Droid_calendar.csproj.GenerateResource.Cache
+C:\Users\Amos\Google Drive\_Assistant\Assistant\Droid_calendar\obj\x86\Debug\Droid_calendar.dll
+C:\Users\Amos\Google Drive\_Assistant\Assistant\Droid_calendar\obj\x86\Debug\Droid_calendar.pdb
+C:\Users\Amos\Google_Drive\_Assistant\Assistant\Droid_calendar\bin\Debug\Droid_calendar.dll
+C:\Users\Amos\Google_Drive\_Assistant\Assistant\Droid_calendar\bin\Debug\Droid_calendar.pdb
+C:\Users\Amos\Google_Drive\_Assistant\Assistant\Droid_calendar\bin\Debug\Assistant_Generics.dll
+C:\Users\Amos\Google_Drive\_Assistant\Assistant\Droid_calendar\bin\Debug\System.Windows.Forms.Ribbon35.dll
+C:\Users\Amos\Google_Drive\_Assistant\Assistant\Droid_calendar\bin\Debug\Assistant_Generics.pdb
+C:\Users\Amos\Google_Drive\_Assistant\Assistant\Droid_calendar\obj\x86\Debug\Droid_calendar.csprojResolveAssemblyReference.cache
+C:\Users\Amos\Google_Drive\_Assistant\Assistant\Droid_calendar\obj\x86\Debug\Assistant.FormExport.resources
+C:\Users\Amos\Google_Drive\_Assistant\Assistant\Droid_calendar\obj\x86\Debug\Assistant.PanelSetting.resources
+C:\Users\Amos\Google_Drive\_Assistant\Assistant\Droid_calendar\obj\x86\Debug\Assistant.PanelTeam.resources
+C:\Users\Amos\Google_Drive\_Assistant\Assistant\Droid_calendar\obj\x86\Debug\Assistant.PanelUser.resources
+C:\Users\Amos\Google_Drive\_Assistant\Assistant\Droid_calendar\obj\x86\Debug\Assistant.FormYearChoose.resources
+C:\Users\Amos\Google_Drive\_Assistant\Assistant\Droid_calendar\obj\x86\Debug\Assistant.GUI.resources
+C:\Users\Amos\Google_Drive\_Assistant\Assistant\Droid_calendar\obj\x86\Debug\Droid_calendar.csproj.GenerateResource.Cache
+C:\Users\Amos\Google_Drive\_Assistant\Assistant\Droid_calendar\obj\x86\Debug\Droid_calendar.dll
+C:\Users\Amos\Google_Drive\_Assistant\Assistant\Droid_calendar\obj\x86\Debug\Droid_calendar.pdb

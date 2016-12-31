@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Droid_Calendar</id>
+    <version>1.0.0</version>
+    <title>Servodroid.calendar</title>
+    <authors>Thibault MONTAUFRAY</authors>
+    <owners>Servodroid</owners>
+    <licenseUrl>https://raw.githubusercontent.com/ThibaultMontaufray/Tools4Libraries/master/License</licenseUrl>
+    <projectUrl>https://github.com/ThibaultMontaufray/Manager-Calendar</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/ThibaultMontaufray/Tools4Libraries/master/ManagersDevComponents/servodroidIconColor.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Manage your calendars.</description>
+    <copyright>Copyright 2016</copyright>
+    <tags>Servodroid calendar meeting</tags>
+  	<dependencies>
+		<group targetFramework="net40">
+			<dependency id="officeribbon" version="3.5.8.4" />
+			<dependency id="Tools4Libraries" version="1.0.10" />
+		</group>
+	</dependencies>
+</metadata>
+  <files>
+    <file src="lib\**\*.dll" target="lib" />
+    <file src="lib\**\*.xml" target="lib" />
+    <file src="lib\**\*.config" target="lib" />
+  </files>
+</package>
